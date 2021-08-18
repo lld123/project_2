@@ -16,8 +16,8 @@ app.use(router);
 // 监听端口
 app.listen(3000,()=>{
     console.log('running...');
+console.log(哈啊啊啊啊啊啊啊啊啊);
 });
-
 
 
 
